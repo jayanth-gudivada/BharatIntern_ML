@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Bharat-Intern-Taks
 
 # Task 1 - House Price Prediction
@@ -10,6 +31,21 @@ Dataset : https://drive.google.com/file/d/1r5YDbOOFpgQr-O_XCSVa1RMVQWBeAlXv/view
 
 
 ------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
