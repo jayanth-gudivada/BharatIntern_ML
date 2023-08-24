@@ -1,6 +1,6 @@
 # Bharat-Intern-Taks
 
-# Task 1 - House_Price_Prediction
+# Task 1 - House Price Prediction
 ## Problem statement :
 
 ## TO PREDICT THE STOCK PRICE OF HOUSE USING LINEAR REGRESSION.
@@ -10,4 +10,14 @@ Dataset : https://drive.google.com/file/d/1r5YDbOOFpgQr-O_XCSVa1RMVQWBeAlXv/view
 
 
 ------------------------------------------------------------------------------------------------
+
+
+
+# Task 3 - Iris Flowers Classification
+## Problem statement :
+
+## TO PREDICT THE SPECIES OF THE GIVEN FLOWER.
+                      
+Dataset : https://drive.google.com/file/d/1BjuNlhtTIvaeOE_Cr_CoHNmHGxHZbzjq/view?usp=sharing                                                
+
 
